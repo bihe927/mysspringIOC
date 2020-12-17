@@ -1,0 +1,14 @@
+<beans>
+    <bean id="zhao" class="com.spring.core.Persion">
+        <property name="pid" value="1001"/>
+        <property name="pname" value="Zhao**"/>
+    </bean>
+    <bean id="qian" class="com.spring.core.Persion">
+        <property name="pid" value="1002"/>
+        <property name="pname" value="Qian**"/>
+    </bean>
+    <bean id="sun" class="com.spring.core.Persion">
+        <property name="pid" value="1003"/>
+        <property name="pname" value="Sun**"/>
+    </bean>
+</beans>
